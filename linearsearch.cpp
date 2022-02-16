@@ -47,3 +47,14 @@ int main()
     l.searchdata();
     return 0;
 }
+/*
+OUTPUT:
+enter the size of array:4
+enter the values:
+w
+e
+r
+t
+enter search element in array:g
+search is unsuccesfull
+*/
