@@ -38,7 +38,7 @@ switch(s[i])
 {
 case '+':item=s2+s1;
 break;
-case '_':item=s2-s1;
+case '-':item=s2-s1;
 break;
 case '*':item=s2*s1;
 break;
